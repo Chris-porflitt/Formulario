@@ -1,0 +1,53 @@
+body {
+    background-image: url("../imagenes/fondo.jpg");
+}
+
+body h2 {
+    text-align: center;
+    font-family: Algerian;
+    color: white;
+
+}
+
+
+.formulario_registro {
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    color: black;
+    background: #2E4053;
+    opacity: 0.8;
+
+    
+}
+
+.formulario_registro h2 {
+    text-align: center;
+    font-family: Algerian;
+}
+
+.form-control {
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 3px solid #1f53c5;
+    font-family: "Times new roman";
+}
+
+.form-select {
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 3px solid #1f53c5;
+    font-family: "Times new roman";
+}
+
+.btn-primary {
+    padding: 10px;
+}
+
+.enviar_formulario {
+    width: 100%;
+    margin-left: 200px;
+    padding-bottom: 10px;
+}
